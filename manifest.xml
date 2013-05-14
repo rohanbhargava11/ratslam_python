@@ -1,0 +1,20 @@
+<package>
+  <description brief="ratslam_python">
+
+     ratslam_python
+
+  </description>
+  <author>Rohan Bhargava</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/ratslam_python</url>
+  <depend package="opencv2"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="sensor_msgs"/>
+  <depend package="std_msgs"/>
+  <depend package="cv_bridge"/>
+  
+</package>
+
+
